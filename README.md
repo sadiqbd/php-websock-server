@@ -1,2 +1,2 @@
-php-websock-framework
+php-websock-server
 =====================
